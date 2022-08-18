@@ -16,6 +16,7 @@
 		response.sendRedirect("loginForm.jsp");
 	}
 	
+	
 	String pw = request.getParameter("pw");
 	
 	MemberDAO dao = new MemberDAO();
