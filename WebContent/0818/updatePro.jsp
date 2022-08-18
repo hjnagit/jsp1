@@ -30,7 +30,7 @@
 	int result = dao.updateMember(mb);
 	
 	if(result == 1){
-		%>
+		%> 
 			<script type="text/javascript">
 				alert("회원정보 수정 완료");
 				location.href = "main.jsp";

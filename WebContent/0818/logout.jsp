@@ -20,7 +20,7 @@ session.invalidate();
 	location.href = "main.jsp";
 	
 </script>
-
+ 
 
 
 </body>

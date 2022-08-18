@@ -42,7 +42,7 @@
 		>남
 		<input type="radio" name="gender" value="여" 
 		<%if(mb.getGender().equals("여")){ %>
-		checked="checked"
+		checked="checked" 
 		<%} %>
 		>여<br>
 이메일 : <input type="text" name="email" value="<%=mb.getEmail() %>" ><br>

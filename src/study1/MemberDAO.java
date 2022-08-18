@@ -257,7 +257,7 @@ public class MemberDAO {
 					result = 0;
 				}
 			}else{
-				result=-1;
+				result=-1; 
 			}
 			
 			System.out.println("DAO : 디비동작 처리 끝" + result);

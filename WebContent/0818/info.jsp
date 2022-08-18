@@ -34,7 +34,7 @@
 성별 : <%=mb.getGender()%><br>
 이메일 : <%=mb.getEmail() %><br>
 회원가입일 : <%=mb.getRegdate() %><br>
-
+ 
 <a href='main.jsp'>메인으로 돌아가기</a>
 
 

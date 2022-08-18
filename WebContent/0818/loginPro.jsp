@@ -12,7 +12,7 @@
 <%
 	request.setCharacterEncoding("UTF-8");
 %>
-
+ 
 <jsp:useBean id="mb" class="study1.MemberBean"/>
 <jsp:setProperty property="*" name="mb"/>
 
